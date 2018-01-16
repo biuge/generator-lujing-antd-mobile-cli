@@ -1,0 +1,28 @@
+{
+  "name": "generator-lujing-antd-mobile-cli",
+  "version": "1.0.0",
+  "description": "基于antdMobile的脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biuge/generator-lujing-antd-mobile-cli.git"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "biuge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biuge/generator-lujing-antd-mobile-cli/issues"
+  },
+  "homepage": "https://github.com/biuge/generator-lujing-antd-mobile-cli#readme",
+  "dependencies": {
+    "yeoman-generator": "^2.0.2"
+  }
+}
